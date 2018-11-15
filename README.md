@@ -6,11 +6,11 @@ June 11 2018-->
 
 # Truss Solver
    
-Abhishek Tiwari                        Sandesh Joshi    
+<!--Abhishek Tiwari                        Sandesh Joshi    
 Archit Kumar                            Avnish Kumar
 Aakash Kath                            Pramod Jonwal    
 Gaingamsin Pamei                        Jonty Purbia
-Hrushikesh Sudam Sarode		          Devashish Singh
+Hrushikesh Sudam Sarode		          Devashish Singh-->
 
 
 
@@ -38,7 +38,7 @@ Adding loads:    5
 Deleting loads:    6
 To clear the screen:    6
 Equations:    6
-About us:    6
+About us:    6
 
 
 
